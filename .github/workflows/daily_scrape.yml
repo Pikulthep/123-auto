@@ -1,0 +1,60 @@
+name: Daily Movie Scrape
+
+on:
+  schedule:
+    # รันเวลา 10:13 น. เวลาไทย (03:13 UTC)
+    - cron: '13 3 * * *'
+  workflow_dispatch: 
+
+# 🌟 แนะนำ 1: ระบุสิทธิ์ (Permissions) ให้ชัดเจน
+# ปัจจุบัน GitHub เข้มงวดเรื่องสิทธิ์ของ Bot มาก การใส่บรรทัดนี้จะรับประกันว่า 
+# Bot สามารถ Push ไฟล์ทับของเดิมได้โดยไม่ติด Error 403 Forbidden
+permissions:
+  contents: write
+
+jobs:
+  run-movie-scraper:
+    runs-on: ubuntu-latest
+    
+    # 🌟 แนะนำ 2: ตั้งเวลา Timeout
+    # งาน Scraping บางครั้งอาจเจอเว็บค้างหรือโหลดไม่ขึ้น ถ้าปล่อยทิ้งไว้มันจะรันกินเวลาโควต้าฟรี (2,000 นาที/เดือน) ไปเรื่อยๆ
+    # การใส่ timeout-minutes จะช่วยตัดจบทันทีถ้ารันเกินเวลาที่กำหนด (เช่น 45 นาที)
+    timeout-minutes: 45 
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          # 🌟 แนะนำ 3: เปิดใช้งาน Cache สำหรับ pip
+          # จะช่วยจำไฟล์ไลบรารี (เช่น selenium, bs4) ไว้ ทำให้การรันรอบพรุ่งนี้และวันถัดๆ ไป
+          # ไม่ต้องดาวน์โหลดใหม่ทั้งหมด ช่วยลดเวลา Setup ลงไปได้เยอะมาก
+          cache: 'pip' 
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Run Movie Script (ดึงหนังใหม่ 2026)
+        run: python movie_script.py
+
+      - name: Commit and Push results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*
+          
+          if ! git diff --staged --quiet; then
+            # 🌟 แนะนำ 4: ปรับข้อความ Commit ให้ตรงกับงาน (และจัด Format เวลาให้ดูง่ายขึ้น)
+            git commit -m "Auto-update movies: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
