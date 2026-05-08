@@ -20,12 +20,12 @@ CATEGORIES = [
     },
     {
         "name": "หนัง Netflix", 
-        "url": "https://www.123-hds.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-netflix", 
+        "url": "https://www.123-hds.com/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-netflix", 
         "max_page": 2 # ดึง 2 หน้าแรก
     },
     {
         "name": "หนังไทย", 
-        "url": "https://www.123-hds.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2", 
+        "url": "https://www.123-hds.com/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2", 
         "max_page": 1 # ดึง 1 หน้าแรก
     }
 ]
