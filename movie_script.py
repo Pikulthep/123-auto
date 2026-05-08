@@ -16,7 +16,6 @@ SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
 MAX_PAGE = 1
-# จำกัดแค่ 2 เพื่อไม่ให้เซิร์ฟเวอร์จับได้
 MAX_WORKERS = 2 
 
 # ================== ฟังก์ชันช่วยเหลือ ==================
@@ -34,7 +33,7 @@ def extract_m3u8(logs):
     return None
 
 def get_movie_links():
-    """🌟 ใช้ Selenium แบบ Fast Mode กวาดหน้ารวม เพื่อแก้ปัญหาโดนเว็บเตะ (Redirect)"""
+    """ใช้ Selenium แบบ Fast Mode กวาดหน้ารวม เพื่อแก้ปัญหาโดนเว็บเตะ (Redirect)"""
     all_links = []
     
     options = Options()
@@ -44,7 +43,7 @@ def get_movie_links():
     options.add_argument("--disable-gpu")
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
     
-    # ปิดโหลดรูปและ CSS เพื่อให้สแกนหน้าไวขึ้น ไม่เสียเวลา
+    # ปิดโหลดรูปและ CSS เพื่อให้สแกนหน้าไวขึ้น
     prefs = {
         "profile.managed_default_content_settings.images": 2,
         "profile.managed_default_content_settings.stylesheets": 2
@@ -61,7 +60,7 @@ def get_movie_links():
             print(f"กำลังสแกนลิงก์จากหน้า {page}/{MAX_PAGE}...")
             try:
                 driver.get(page_url)
-                time.sleep(3) # ให้เวลาโครงสร้าง HTML โหลด
+                time.sleep(3) 
                 soup = BeautifulSoup(driver.page_source, "html.parser")
                 halim_box = soup.find("div", class_="halim_box")
                 if halim_box:
@@ -85,7 +84,6 @@ def process_movie(movie_url):
     options.add_argument("--disable-gpu")
     options.add_argument("--mute-audio")
     
-    # พรางตัวว่าเป็นคนจริงๆ (Anti-Bot)
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
@@ -130,10 +128,11 @@ def process_movie(movie_url):
                 if any(kw in info_text for kw in ["ชนโรง", "ซูม", "CAM"]): tags.append("หนังซูม")
                 elif any(kw in info_text for kw in ["HD", "Master"]): tags.append("HD")
                 
+        # 🌟 เปลี่ยนวิธีจัดการ Tags (ไม่เอาไปปนในชื่อเรื่องแล้ว แต่เก็บไว้ลง info แทน)
+        tag_str = ""
         if tags:
             tags = list(dict.fromkeys([t.upper() for t in tags if t]))
             tag_str = " | ".join(tags)
-            if tag_str not in title: title = f"[{tag_str}] {title}"
 
         # --- 2. หาลิงก์ m3u8 ---
         m3u8_url = None
@@ -170,8 +169,15 @@ def process_movie(movie_url):
                     if m3u8_url: break
 
         if m3u8_url:
-            print(f"✅ สำเร็จ: {title}")
-            movie_data = {"name": title, "image": image, "url": m3u8_url}
+            print(f"✅ สำเร็จ: {title} ({tag_str})")
+            
+            # 🌟 สร้าง Dictionary ใหม่ โดยเพิ่มฟิลด์ info ลงไปต่อจาก url
+            movie_data = {
+                "name": title,
+                "image": image,
+                "url": m3u8_url,
+                "info": tag_str if tag_str else "ไม่ระบุ"
+            }
         else:
             print(f"❌ ไม่พบลิงก์: {title}")
             
@@ -189,7 +195,7 @@ if __name__ == "__main__":
     
     links = get_movie_links()
     
-    # 🌟 เทสระบบ: ดึงแค่ 5 เรื่องก่อนเพื่อความรวดเร็วในการเช็ค ถ้าเวิร์คค่อยลบบรรทัดนี้ทิ้งครับ
+    # 🌟 เทสระบบดึงแค่ 5 เรื่องก่อน (ถ้าเวิร์คให้เอา # หน้าบรรทัดล่างออก)
     # links = links[:5] 
     
     print(f"\n🎯 พบลิงก์ทั้งหมด: {len(links)} เรื่อง (กำลังเริ่มดึงข้อมูลขนานกัน {MAX_WORKERS} หน้าต่าง...)\n")
