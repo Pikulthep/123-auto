@@ -11,29 +11,42 @@ from datetime import datetime
 import concurrent.futures
 
 # ================== CONFIG ==================
-MAIN_URL = "https://www.123-hds.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2026"
+# 🌟 ตั้งค่าหมวดหมู่ที่ต้องการดึง (สามารถเพิ่ม/ลด และแก้ลิงก์ได้ตามต้องการ)
+CATEGORIES = [
+    {
+        "name": "หนังใหม่ 2026", 
+        "url": "https://www.123-hds.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2026", 
+        "max_page": 3 # ดึง 3 หน้าแรก
+    },
+    {
+        "name": "หนัง Netflix", 
+        "url": "https://www.123-hds.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-netflix", 
+        "max_page": 2 # ดึง 2 หน้าแรก
+    },
+    {
+        "name": "หนังไทย", 
+        "url": "https://www.123-hds.com/category/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2", 
+        "max_page": 1 # ดึง 1 หน้าแรก
+    }
+]
+
 SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
-
-MAX_PAGE = 1
-MAX_WORKERS = 2 
+MAX_WORKERS = 3 # จำนวนหน้าต่างที่จะเปิดพร้อมกัน (แนะนำที่ 2-3 ป้องกัน RAM เต็ม)
 
 # ================== ฟังก์ชันช่วยเหลือ ==================
 def extract_m3u8(logs):
-    """ฟังก์ชันสกัดลิงก์ m3u8 จาก Network Log"""
     for entry in logs:
         try:
             log_data = json.loads(entry["message"])["message"]
             if log_data["method"] in ["Network.requestWillBeSent", "Network.responseReceived"]:
                 req_url = log_data["params"].get("request", {}).get("url") or log_data["params"].get("response", {}).get("url", "")
-                if ".m3u8" in req_url:
-                    return req_url
-        except:
-            continue
+                if ".m3u8" in req_url: return req_url
+        except: continue
     return None
 
-def get_movie_links():
-    """ใช้ Selenium แบบ Fast Mode กวาดหน้ารวม เพื่อแก้ปัญหาโดนเว็บเตะ (Redirect)"""
+def get_movie_links(category_url, max_page):
+    """กวาดลิงก์หน้ารวม (รองรับทีละหมวดหมู่)"""
     all_links = []
     
     options = Options()
@@ -43,7 +56,6 @@ def get_movie_links():
     options.add_argument("--disable-gpu")
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
     
-    # ปิดโหลดรูปและ CSS เพื่อให้สแกนหน้าไวขึ้น
     prefs = {
         "profile.managed_default_content_settings.images": 2,
         "profile.managed_default_content_settings.stylesheets": 2
@@ -55,9 +67,9 @@ def get_movie_links():
     driver.set_page_load_timeout(30)
     
     try:
-        for page in range(1, MAX_PAGE + 1):
-            page_url = MAIN_URL if page == 1 else f"{MAIN_URL}/page/{page}"
-            print(f"กำลังสแกนลิงก์จากหน้า {page}/{MAX_PAGE}...")
+        for page in range(1, max_page + 1):
+            page_url = category_url if page == 1 else f"{category_url}/page/{page}"
+            print(f"  -> สแกนหน้า {page}/{max_page}: {page_url}")
             try:
                 driver.get(page_url)
                 time.sleep(3) 
@@ -69,7 +81,7 @@ def get_movie_links():
                         if a_tag and "href" in a_tag.attrs:
                             all_links.append(a_tag["href"])
             except Exception as e:
-                print(f"  -> Error อ่านหน้า {page}: {e}")
+                print(f"     [Error] อ่านหน้า {page} ไม่สำเร็จ: {e}")
     finally:
         driver.quit()
             
@@ -83,12 +95,10 @@ def process_movie(movie_url):
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
     options.add_argument("--mute-audio")
-    
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-    
     options.set_capability("goog:loggingPrefs", {"performance": "ALL"})
 
     service = Service(ChromeDriverManager().install())
@@ -102,7 +112,7 @@ def process_movie(movie_url):
         time.sleep(3) 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         
-        # --- 1. ดึงชื่อ รูป และ Tags ---
+        # --- ดึงชื่อ รูป และ Info ---
         title = "ไม่ทราบชื่อเรื่อง"
         image = "https://via.placeholder.com/150"
         
@@ -128,15 +138,13 @@ def process_movie(movie_url):
                 if any(kw in info_text for kw in ["ชนโรง", "ซูม", "CAM"]): tags.append("หนังซูม")
                 elif any(kw in info_text for kw in ["HD", "Master"]): tags.append("HD")
                 
-        # 🌟 เปลี่ยนวิธีจัดการ Tags (ไม่เอาไปปนในชื่อเรื่องแล้ว แต่เก็บไว้ลง info แทน)
         tag_str = ""
         if tags:
             tags = list(dict.fromkeys([t.upper() for t in tags if t]))
             tag_str = " | ".join(tags)
 
-        # --- 2. หาลิงก์ m3u8 ---
+        # --- หาลิงก์ m3u8 ---
         m3u8_url = None
-        
         for _ in range(12): 
             time.sleep(1)
             m3u8_url = extract_m3u8(driver.get_log("performance"))
@@ -157,7 +165,6 @@ def process_movie(movie_url):
                 iframe_url = iframe["src"]
                 iframe_url = "https:" + iframe_url if iframe_url.startswith("//") else iframe_url
                 driver.get(iframe_url)
-                
                 try:
                     time.sleep(4)
                     driver.execute_script("let v = document.querySelector('video'); if(v) v.play(); else document.body.click();")
@@ -169,9 +176,7 @@ def process_movie(movie_url):
                     if m3u8_url: break
 
         if m3u8_url:
-            print(f"✅ สำเร็จ: {title} ({tag_str})")
-            
-            # 🌟 สร้าง Dictionary ใหม่ โดยเพิ่มฟิลด์ info ลงไปต่อจาก url
+            print(f"    ✅ สำเร็จ: {title}")
             movie_data = {
                 "name": title,
                 "image": image,
@@ -179,10 +184,10 @@ def process_movie(movie_url):
                 "info": tag_str if tag_str else "ไม่ระบุ"
             }
         else:
-            print(f"❌ ไม่พบลิงก์: {title}")
+            print(f"    ❌ ไม่พบลิงก์: {title}")
             
     except Exception as e:
-        print(f"⚠️ Error เกิดข้อผิดพลาด: {e}")
+        print(f"    ⚠️ Error เกิดข้อผิดพลาด: {e}")
     finally:
         driver.quit()
         
@@ -191,37 +196,56 @@ def process_movie(movie_url):
 # ================== Main Program ==================
 if __name__ == "__main__":
     start_time = time.time()
-    print("🚀 เริ่มต้นกระบวนการดึงข้อมูล (Optimized & Stealth Version)")
+    print("🚀 เริ่มต้นกระบวนการดึงข้อมูลแบบ Multi-Category\n")
     
-    links = get_movie_links()
+    all_groups_data = [] # ตะกร้าใบใหญ่สำหรับเก็บหนังทุกหมวดหมู่
     
-    # 🌟 เทสระบบดึงแค่ 5 เรื่องก่อน (ถ้าเวิร์คให้เอา # หน้าบรรทัดล่างออก)
-    # links = links[:5] 
-    
-    print(f"\n🎯 พบลิงก์ทั้งหมด: {len(links)} เรื่อง (กำลังเริ่มดึงข้อมูลขนานกัน {MAX_WORKERS} หน้าต่าง...)\n")
-    
-    movies_data = []
-    
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        results = executor.map(process_movie, links)
-        for res in results:
-            if res:
-                movies_data.append(res)
+    for category in CATEGORIES:
+        cat_name = category["name"]
+        cat_url = category["url"]
+        cat_max_page = category["max_page"]
+        
+        print(f"==================================================")
+        print(f"🎬 กำลังเริ่มหมวดหมู่: {cat_name} (จำนวน {cat_max_page} หน้า)")
+        print(f"==================================================")
+        
+        # 1. กวาดลิงก์ของหมวดหมู่นั้นๆ
+        links = get_movie_links(cat_url, cat_max_page)
+        
+        # 🌟 เทสระบบ: ถ้าอยากเทสไวๆ ให้ดึงแค่ 2 เรื่องต่อหมวด (ถ้าจะรันจริงให้ลบบรรทัดล่างนี้ทิ้ง)
+        # links = links[:2] 
+        
+        print(f"🎯 พบลิงก์ในหมวด '{cat_name}' ทั้งหมด: {len(links)} เรื่อง")
+        print(f"⏳ เริ่มเจาะดึงข้อมูลวิดีโอ (รันขนาน {MAX_WORKERS} หน้าต่าง)...\n")
+        
+        movies_data = []
+        
+        # 2. ดึงข้อมูลหนัง
+        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            results = executor.map(process_movie, links)
+            for res in results:
+                if res: movies_data.append(res)
+                    
+        # 3. จัดกลุ่มหนังใส่โฟลเดอร์ของหมวดหมู่นั้นๆ
+        if movies_data:
+            all_groups_data.append({
+                "name": f"📂 {cat_name}",
+                "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
+                "stations": movies_data
+            })
+        print("\n")
                 
-    # ================== สร้างไฟล์ JSON ==================
-    print(f"\n💾 รวบรวมสำเร็จ {len(movies_data)} เรื่อง, กำลังสร้างไฟล์ {OUTPUT_FILE}")
+    # ================== สร้างไฟล์ JSON รวมฮิต ==================
+    print(f"💾 รวบรวมสำเร็จทั้งหมด {len(all_groups_data)} หมวดหมู่, กำลังสร้างไฟล์ {OUTPUT_FILE}")
     os.makedirs(SAVE_DIR, exist_ok=True)
     
     current_date = datetime.now().strftime("%d/%m/%Y")
     final_data = {
-        "name": f"หนังใหม่ 2026 @ {current_date}",
-        "author": "Auto Update (Pro)",
+        "name": f"รวมฮิต 123-HDS @ {current_date}",
+        "author": "Auto Update (Multi-Cat)",
+        "info": "รวมหนังและซีรีส์อัปเดตอัตโนมัติ",
         "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
-        "groups": [{
-            "name": f"หนังใหม่ 2026 (รวม {MAX_PAGE} หน้า)",
-            "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
-            "stations": movies_data
-        }]
+        "groups": all_groups_data # ยัดโฟลเดอร์ทั้งหมดลงในกล่องใหญ่
     }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
