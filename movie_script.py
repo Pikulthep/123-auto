@@ -8,7 +8,7 @@ import json
 import time
 import os
 from datetime import datetime
-import concurrent.futures # นำเข้าไลบรารีสำหรับทำ Multithreading
+import concurrent.futures
 
 # ================== CONFIG ==================
 MAIN_URL = "https://www.123-hds.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2026"
@@ -16,10 +16,10 @@ SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
 MAX_PAGE = 1
-# 🌟 ตั้งค่า Thread: ให้เปิด Chrome รันพร้อมกัน 3 ตัว (ตั้งไว้ 3 เพื่อไม่ให้ GitHub Actions RAM เต็ม)
-MAX_WORKERS = 3 
+# ลดเหลือ 2 เพื่อไม่ให้เซิร์ฟเวอร์เว็บหนังบล็อก IP เพราะ Request รัวเกินไป
+MAX_WORKERS = 2 
 
-# ================== ฟังก์ชันช่วยเหลีอ ==================
+# ================== ฟังก์ชันช่วยเหลือ ==================
 def extract_m3u8(logs):
     """ฟังก์ชันสกัดลิงก์ m3u8 จาก Network Log"""
     for entry in logs:
@@ -34,7 +34,7 @@ def extract_m3u8(logs):
     return None
 
 def get_movie_links():
-    """🌟 Level 2: กวาดลิงก์หน้ารวมด้วย Requests (ไวระดับเสี้ยววินาที)"""
+    """กวาดลิงก์หน้ารวมด้วย Requests"""
     all_links = []
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
     
@@ -57,30 +57,34 @@ def get_movie_links():
 
 # ================== ฟังก์ชันหลักสำหรับดึงข้อมูล (1 เรื่อง) ==================
 def process_movie(movie_url):
-    """ฟังก์ชันนี้จะถูกเรียกใช้หลายๆ ตัวพร้อมกันโดย ThreadPool"""
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
     options.add_argument("--mute-audio")
+    
+    # 🌟 เพิ่มเกราะป้องกัน Bot (ปิดการแจ้งเตือนว่าเป็น Automation)
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    options.add_experimental_option('useAutomationExtension', False)
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    
     options.set_capability("goog:loggingPrefs", {"performance": "ALL"})
     
-    # 🌟 Level 1: ปิดการโหลดรูปภาพและ CSS ให้เว็บโหลดไวขึ้น 3 เท่า
-    prefs = {
-        "profile.managed_default_content_settings.images": 2,
-        "profile.managed_default_content_settings.stylesheets": 2
-    }
-    options.add_experimental_option("prefs", prefs)
+    # ⚠️ เอาส่วนที่บล็อกรูปภาพและ CSS ออก เพื่อให้ Player ทำงานได้สมบูรณ์
 
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
-    driver.set_page_load_timeout(45)
+    # จำลองเป็นคนจริงๆ มากขึ้น
+    driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+    driver.set_page_load_timeout(60)
 
     movie_data = None
     try:
         driver.get(movie_url)
+        # รอให้เว็บโหลดโครงสร้างเบื้องต้น
+        time.sleep(3) 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         
         # --- 1. ดึงชื่อ รูป และ Tags ---
@@ -117,19 +121,18 @@ def process_movie(movie_url):
         # --- 2. หาลิงก์ m3u8 ---
         m3u8_url = None
         
-        # 🌟 Level 3: Active Wait (เช็คทุก 1 วิ ไม่ต้องรอตายตัว 8 วิ)
-        for _ in range(10): 
+        for _ in range(12): 
             time.sleep(1)
             m3u8_url = extract_m3u8(driver.get_log("performance"))
-            if m3u8_url: break # ถ้าเจอแล้ว ไปต่อทันที!
+            if m3u8_url: break
 
-        # ท่าเจาะเกราะ Player (ถ้ายังไม่เจอ m3u8)
+        # ท่าเจาะเกราะ Player
         if not m3u8_url:
             iframe = soup.select_one("#ajax-player iframe, .halim-player-wrapper iframe")
             if not iframe:
                 try:
                     driver.execute_script("let btn = document.querySelector('.halim-list-server li a'); if(btn) btn.click();")
-                    time.sleep(2)
+                    time.sleep(3)
                     soup = BeautifulSoup(driver.page_source, "html.parser")
                     iframe = soup.select_one("#ajax-player iframe, .halim-player-wrapper iframe")
                 except: pass
@@ -140,12 +143,12 @@ def process_movie(movie_url):
                 driver.get(iframe_url)
                 
                 try:
-                    time.sleep(2)
+                    # เพิ่มเวลาให้ Player โหลดสคริปต์วิดีโอเสร็จ
+                    time.sleep(4)
                     driver.execute_script("let v = document.querySelector('video'); if(v) v.play(); else document.body.click();")
                 except: pass
                 
-                # Active Wait ในหน้า Player
-                for _ in range(8): 
+                for _ in range(10): 
                     time.sleep(1)
                     m3u8_url = extract_m3u8(driver.get_log("performance"))
                     if m3u8_url: break
@@ -159,24 +162,25 @@ def process_movie(movie_url):
     except Exception as e:
         print(f"⚠️ Error เกิดข้อผิดพลาด: {e}")
     finally:
-        driver.quit() # ปิดเบราว์เซอร์คืน RAM ให้เซิร์ฟเวอร์
+        driver.quit()
         
     return movie_data
 
 # ================== Main Program ==================
 if __name__ == "__main__":
-    start_time = time.time() # จับเวลา
-    print("🚀 เริ่มต้นกระบวนการดึงข้อมูล (Ultimate Optimized Version)")
+    start_time = time.time()
+    print("🚀 เริ่มต้นกระบวนการดึงข้อมูล (Optimized & Stealth Version)")
     
     links = get_movie_links()
+    # 🌟 เทสระบบ: ถ้าอยากเทสว่าใช้งานได้ไหม แนะนำให้รันแค่ 5 เรื่องก่อน จะได้รู้ผลไวๆ
+    # links = links[:5] 
+    
     print(f"\n🎯 พบลิงก์ทั้งหมด: {len(links)} เรื่อง (กำลังเริ่มดึงข้อมูลขนานกัน {MAX_WORKERS} หน้าต่าง...)\n")
     
     movies_data = []
     
-    # 🌟 Level 4: ทำงานขนาน (Multithreading) เปิดหลายหน้าต่างพร้อมกัน
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         results = executor.map(process_movie, links)
-        
         for res in results:
             if res:
                 movies_data.append(res)
