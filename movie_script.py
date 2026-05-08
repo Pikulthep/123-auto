@@ -16,7 +16,7 @@ SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
 
 MAX_PAGE = 1
-# ลดเหลือ 2 เพื่อไม่ให้เซิร์ฟเวอร์เว็บหนังบล็อก IP เพราะ Request รัวเกินไป
+# จำกัดแค่ 2 เพื่อไม่ให้เซิร์ฟเวอร์จับได้
 MAX_WORKERS = 2 
 
 # ================== ฟังก์ชันช่วยเหลือ ==================
@@ -34,24 +34,45 @@ def extract_m3u8(logs):
     return None
 
 def get_movie_links():
-    """กวาดลิงก์หน้ารวมด้วย Requests"""
+    """🌟 ใช้ Selenium แบบ Fast Mode กวาดหน้ารวม เพื่อแก้ปัญหาโดนเว็บเตะ (Redirect)"""
     all_links = []
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
     
-    for page in range(1, MAX_PAGE + 1):
-        page_url = MAIN_URL if page == 1 else f"{MAIN_URL}/page/{page}"
-        print(f"กำลังสแกนลิงก์จากหน้า {page}/{MAX_PAGE}...")
-        try:
-            res = requests.get(page_url, headers=headers, timeout=10)
-            soup = BeautifulSoup(res.text, "html.parser")
-            halim_box = soup.find("div", class_="halim_box")
-            if halim_box:
-                for article in halim_box.find_all("article"):
-                    a_tag = article.find("a")
-                    if a_tag and "href" in a_tag.attrs:
-                        all_links.append(a_tag["href"])
-        except Exception as e:
-            print(f"  -> Error อ่านหน้า {page}: {e}")
+    options = Options()
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    
+    # ปิดโหลดรูปและ CSS เพื่อให้สแกนหน้าไวขึ้น ไม่เสียเวลา
+    prefs = {
+        "profile.managed_default_content_settings.images": 2,
+        "profile.managed_default_content_settings.stylesheets": 2
+    }
+    options.add_experimental_option("prefs", prefs)
+
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+    driver.set_page_load_timeout(30)
+    
+    try:
+        for page in range(1, MAX_PAGE + 1):
+            page_url = MAIN_URL if page == 1 else f"{MAIN_URL}/page/{page}"
+            print(f"กำลังสแกนลิงก์จากหน้า {page}/{MAX_PAGE}...")
+            try:
+                driver.get(page_url)
+                time.sleep(3) # ให้เวลาโครงสร้าง HTML โหลด
+                soup = BeautifulSoup(driver.page_source, "html.parser")
+                halim_box = soup.find("div", class_="halim_box")
+                if halim_box:
+                    for article in halim_box.find_all("article"):
+                        a_tag = article.find("a")
+                        if a_tag and "href" in a_tag.attrs:
+                            all_links.append(a_tag["href"])
+            except Exception as e:
+                print(f"  -> Error อ่านหน้า {page}: {e}")
+    finally:
+        driver.quit()
             
     return list(set(all_links))
 
@@ -64,26 +85,22 @@ def process_movie(movie_url):
     options.add_argument("--disable-gpu")
     options.add_argument("--mute-audio")
     
-    # 🌟 เพิ่มเกราะป้องกัน Bot (ปิดการแจ้งเตือนว่าเป็น Automation)
+    # พรางตัวว่าเป็นคนจริงๆ (Anti-Bot)
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
     options.add_experimental_option('useAutomationExtension', False)
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
     
     options.set_capability("goog:loggingPrefs", {"performance": "ALL"})
-    
-    # ⚠️ เอาส่วนที่บล็อกรูปภาพและ CSS ออก เพื่อให้ Player ทำงานได้สมบูรณ์
 
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
-    # จำลองเป็นคนจริงๆ มากขึ้น
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     driver.set_page_load_timeout(60)
 
     movie_data = None
     try:
         driver.get(movie_url)
-        # รอให้เว็บโหลดโครงสร้างเบื้องต้น
         time.sleep(3) 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         
@@ -143,7 +160,6 @@ def process_movie(movie_url):
                 driver.get(iframe_url)
                 
                 try:
-                    # เพิ่มเวลาให้ Player โหลดสคริปต์วิดีโอเสร็จ
                     time.sleep(4)
                     driver.execute_script("let v = document.querySelector('video'); if(v) v.play(); else document.body.click();")
                 except: pass
@@ -172,7 +188,8 @@ if __name__ == "__main__":
     print("🚀 เริ่มต้นกระบวนการดึงข้อมูล (Optimized & Stealth Version)")
     
     links = get_movie_links()
-    # 🌟 เทสระบบ: ถ้าอยากเทสว่าใช้งานได้ไหม แนะนำให้รันแค่ 5 เรื่องก่อน จะได้รู้ผลไวๆ
+    
+    # 🌟 เทสระบบ: ดึงแค่ 5 เรื่องก่อนเพื่อความรวดเร็วในการเช็ค ถ้าเวิร์คค่อยลบบรรทัดนี้ทิ้งครับ
     # links = links[:5] 
     
     print(f"\n🎯 พบลิงก์ทั้งหมด: {len(links)} เรื่อง (กำลังเริ่มดึงข้อมูลขนานกัน {MAX_WORKERS} หน้าต่าง...)\n")
