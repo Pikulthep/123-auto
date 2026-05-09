@@ -46,7 +46,7 @@ CATEGORIES = [
 
 SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
-MAX_WORKERS = 6 # จำนวนหน้าต่างที่จะเปิดพร้อมกัน
+MAX_WORKERS = 10 # จำนวนหน้าต่างที่จะเปิดพร้อมกัน
 
 # ================== ฟังก์ชันช่วยเหลือ ==================
 def extract_m3u8(logs):
