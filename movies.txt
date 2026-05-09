@@ -4,324 +4,10 @@
   "author": "Gojek Update : 09-May-2026 ",
   "groups": [
     {
-      "name": "(กำลังฉาย) Something Is Not Right (2026) แพ้เสียงในหัว(ใจ)",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/3890d67af8a4be1f8fdc0398/3890d67af8a4be1f8fdc0398.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/8c4755b0a9720abac537b94b/8c4755b0a9720abac537b94b.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e55a655819101d52429dd260/e55a655819101d52429dd260.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9bca0942b42916e36dfb226a/9bca0942b42916e36dfb226a.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9b9f649b702ad57d87313806/9b9f649b702ad57d87313806.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9a937fedf34405aba8bb4da7/9a937fedf34405aba8bb4da7.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Never Forget Your Enemy (2026) ยังไงก็ใช่นาย",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP08",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7c5d8f36d03e7fc218c67b54/7c5d8f36d03e7fc218c67b54.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP07",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/39e60de8ad7d958fec37c2f7/39e60de8ad7d958fec37c2f7.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/ff9c3eaf3814c3fc17143d4c/ff9c3eaf3814c3fc17143d4c.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9b3e2ee79de6e0b99e9105f0/9b3e2ee79de6e0b99e9105f0.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/5222220430574072016e4eaa/5222220430574072016e4eaa.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7f374f2e6520a7a8395e1e37/7f374f2e6520a7a8395e1e37.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/a6f91d18b620689df6cb10b7/a6f91d18b620689df6cb10b7.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6b9ac930ffe7d595a62693a7/6b9ac930ffe7d595a62693a7.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Wishing Upon the Shooting Stars (2026) คำอธิษฐานใต้ดวงดาว",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP08",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7db06e6c8e358318d7130c3a/7db06e6c8e358318d7130c3a.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP07",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/3f4e584a46121f601e30bb17/3f4e584a46121f601e30bb17.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/c22dddd549e9eec5e82485dc/c22dddd549e9eec5e82485dc.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6f578b16e8e875542058eb0b/6f578b16e8e875542058eb0b.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/2a865c539acc1f00edbfa59f/2a865c539acc1f00edbfa59f.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/5d5c031858be20ba98458b71/5d5c031858be20ba98458b71.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/638515669506e7e986a5dd3e/638515669506e7e986a5dd3e.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7382cad1ca0a0e0c97b9add5/7382cad1ca0a0e0c97b9add5.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Sammy’s Children’s Day (2026) รักร้ายของนายมาเฟีย",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP09",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/a748cdc951dac7d74e58efef/a748cdc951dac7d74e58efef.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP08",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9a7a656a392e9bd95f84af43/9a7a656a392e9bd95f84af43.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP07",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9f467a5a7cff967049de9e58/9f467a5a7cff967049de9e58.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/c9cc7e636c9ed130f981cc75/c9cc7e636c9ed130f981cc75.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/cb586c46314c732624e5a447/cb586c46314c732624e5a447.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/ed44815a90b06184f2a9c894/ed44815a90b06184f2a9c894.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7b9c7817bf610e7fe15d6d96/7b9c7817bf610e7fe15d6d96.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/0cfc4e99d0ae49ba2313bdd6/0cfc4e99d0ae49ba2313bdd6.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/4cff01acb24c7d707907dcb3/4cff01acb24c7d707907dcb3.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Gold Land (2026) แผนล่าท้าคนโลภ",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e4c5908a3e81c18e39f45f4c/e4c5908a3e81c18e39f45f4c.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/27a5efcc33125c4d5657688c/27a5efcc33125c4d5657688c.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/27fef0a0a60e5c979aff1ba5/27fef0a0a60e5c979aff1ba5.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/f1842989b250c5cd64e4cc08/f1842989b250c5cd64e4cc08.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "(กำลังฉาย) Reverse (2026) จิตไม่ลืมแค้น",
       "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Reverse-2026-จิตไม่ลืมแค้น-300x450.jpg",
       "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "EP08",
@@ -390,104 +76,161 @@
       ]
     },
     {
-      "name": "(กำลังฉาย) The Double Game (2026) เกมสองหน้า",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+      "name": "(กำลังฉาย) Wishing Upon the Shooting Stars (2026) คำอธิษฐานใต้ดวงดาว",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
       "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
       "stations": [
         {
-          "name": "EP12",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/204919b1b7d5c0119176cb2d/204919b1b7d5c0119176cb2d.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP11",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/f3afa610a33ae2bc5a16a198/f3afa610a33ae2bc5a16a198.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP10",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/8ee5d96e2c648fcfd7992e7d/8ee5d96e2c648fcfd7992e7d.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP09",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e6fb413b2404a1fc00b4833f/e6fb413b2404a1fc00b4833f.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "EP08",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/95a5b857b2c23fd0175eccbd/95a5b857b2c23fd0175eccbd.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7db06e6c8e358318d7130c3a/7db06e6c8e358318d7130c3a.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP07",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/5944e398a3d30d692e657aa4/5944e398a3d30d692e657aa4.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3f4e584a46121f601e30bb17/3f4e584a46121f601e30bb17.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/4db0cefb9837b938522f03f9/4db0cefb9837b938522f03f9.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c22dddd549e9eec5e82485dc/c22dddd549e9eec5e82485dc.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/446a1707e92038ea9394a256/446a1707e92038ea9394a256.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6f578b16e8e875542058eb0b/6f578b16e8e875542058eb0b.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/742c80e03ce2aff63137be38/742c80e03ce2aff63137be38.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2a865c539acc1f00edbfa59f/2a865c539acc1f00edbfa59f.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/3316f26c9ecbe56717a543a9/3316f26c9ecbe56717a543a9.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5d5c031858be20ba98458b71/5d5c031858be20ba98458b71.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/b7de814ac280b50462e15844/b7de814ac280b50462e15844.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/638515669506e7e986a5dd3e/638515669506e7e986a5dd3e.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/1828729361cd3909dc19ca81/1828729361cd3909dc19ca81.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7382cad1ca0a0e0c97b9add5/7382cad1ca0a0e0c97b9add5.m3u8",
           "referer": "",
           "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Climax (2026) สุดจุดเดือด",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4ee1d07f3b70ea25eebb661f/4ee1d07f3b70ea25eebb661f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6ba5145f299eab28058fbaa8/6ba5145f299eab28058fbaa8.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9403a2e39b67fd2e071c1606/9403a2e39b67fd2e071c1606.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c1c91ea2a2cba28ef1dd9598/c1c91ea2a2cba28ef1dd9598.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/65a0b64edf03141df95211f4/65a0b64edf03141df95211f4.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fed4029db8161f3da62c37b6/fed4029db8161f3da62c37b6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/86f1bb1be52f4a7ab50e5983/86f1bb1be52f4a7ab50e5983.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7c14c14fee5c9d8502070f9b/7c14c14fee5c9d8502070f9b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6d6175375fcda328ddfa6ad6/6d6175375fcda328ddfa6ad6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bc1dfb717b7643e48f5100a7/bc1dfb717b7643e48f5100a7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
           "playInNatPlayer": "true"
         }
       ]
@@ -496,6 +239,7 @@
       "name": "(กำลังฉาย) Scandal Love (2026)",
       "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Scandal-Love-2026-300x450.jpg",
       "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "EP10",
@@ -580,9 +324,642 @@
       ]
     },
     {
+      "name": "(กำลังฉาย) Fireworks (2026) สลับร่างล่าวิญญาณ",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP24",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/389c6c8af075f848dbd04024/389c6c8af075f848dbd04024.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP23",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5d128b5c1acc476b0e85113e/5d128b5c1acc476b0e85113e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/678be6042c9f86ba51dfd8db/678be6042c9f86ba51dfd8db.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9ba737caa49b45c66beaa8c1/9ba737caa49b45c66beaa8c1.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/77bcf4f929222d0dcdc45445/77bcf4f929222d0dcdc45445.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/db17636324a41a0221d38858/db17636324a41a0221d38858.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7534fdd7a479e9cde07abd0d/7534fdd7a479e9cde07abd0d.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3d2e239abf4db5680a63c3c2/3d2e239abf4db5680a63c3c2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/747c83ef413fc39f2acb3222/747c83ef413fc39f2acb3222.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e327017965ce68a341b2c67d/e327017965ce68a341b2c67d.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/188d42da2ed8b95fff5941c9/188d42da2ed8b95fff5941c9.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/222d87fd0c3044f36858f0c5/222d87fd0c3044f36858f0c5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/10845c8f36e67ade69837d37/10845c8f36e67ade69837d37.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6f749a044c64233d4c074f57/6f749a044c64233d4c074f57.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7a0d58c60844e10ff50e8dae/7a0d58c60844e10ff50e8dae.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9a5ba965c9d24814db322a94/9a5ba965c9d24814db322a94.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1a3c4c0f1eb89838fa9b9f9f/1a3c4c0f1eb89838fa9b9f9f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/486c457f67098070b5ea5a47/486c457f67098070b5ea5a47.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/839cf40c9a7f4ddc9c959b64/839cf40c9a7f4ddc9c959b64.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6d3125fa34526f5a3af7857e/6d3125fa34526f5a3af7857e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4966106ed6a2a25e708b63ce/4966106ed6a2a25e708b63ce.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3d50fc380db3732a3138a5af/3d50fc380db3732a3138a5af.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fireworks-2026-สลับร่างล่าวิญญาณ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3a22d8170933b24c2f4920b9/3a22d8170933b24c2f4920b9.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Within The Grip (2026) เงามืดลวงใจ",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP24",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/053074b4173d685e700c239c/053074b4173d685e700c239c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP23",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3cfc7e169f76bd65214d8a5a/3cfc7e169f76bd65214d8a5a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0c4b6cfd69148e682158925f/0c4b6cfd69148e682158925f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a7a96b1eb50a9427dca8ee97/a7a96b1eb50a9427dca8ee97.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a7d3c14a11930ad5e288dbd3/a7d3c14a11930ad5e288dbd3.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bb4c1f6b4deaff59535ffcea/bb4c1f6b4deaff59535ffcea.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6f11b4e70eb943c328e9a43d/6f11b4e70eb943c328e9a43d.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1ddf051a1513d251def4360c/1ddf051a1513d251def4360c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/12aa408c8b91cff0d373f861/12aa408c8b91cff0d373f861.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP15",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4d9cdaa762137e3c653cfff8/4d9cdaa762137e3c653cfff8.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1aa482e61a894f856badaf64/1aa482e61a894f856badaf64.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ab7c178f2ed537203fdb0bcf/ab7c178f2ed537203fdb0bcf.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/53b294bb40dba85925dbba57/53b294bb40dba85925dbba57.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/eb434f4bc2c6ebc7c4fdd7ed/eb434f4bc2c6ebc7c4fdd7ed.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f2318a419a0e54c2d8e1a4ff/f2318a419a0e54c2d8e1a4ff.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/20440cc96e7a20e1704d12c4/20440cc96e7a20e1704d12c4.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c1894121640194b2a71cd69c/c1894121640194b2a71cd69c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/77e2129023223dc00a578729/77e2129023223dc00a578729.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e4860ea0f84a044187a8f49c/e4860ea0f84a044187a8f49c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c95b75243d446e6e07c65fbe/c95b75243d446e6e07c65fbe.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fb3f7a71fd4cc4af78146d7e/fb3f7a71fd4cc4af78146d7e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/49a8598bebb02121a36700de/49a8598bebb02121a36700de.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/01fa04ff4f159da49723f778/01fa04ff4f159da49723f778.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Within-The-Grip-2026-เงามืดลวงใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/565f94ee07da8930d06abf11/565f94ee07da8930d06abf11.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Sold Out on You (2026) รักเธอหมดใจ",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/917f94a94e3f07b4d6f09b52/917f94a94e3f07b4d6f09b52.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9a98ea87f1cfd0ea259078b5/9a98ea87f1cfd0ea259078b5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/763cef31388a1a8a50a281d2/763cef31388a1a8a50a281d2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e2028a0746f30fb40ed911d2/e2028a0746f30fb40ed911d2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e7ac64cfbe513eca378606a7/e7ac64cfbe513eca378606a7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d447eaf43cad3a7e73729a54/d447eaf43cad3a7e73729a54.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) A LOVER IN THE MORTAL WORLD (2026) เพียงพบพาน ดั่งภาพฝัน",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4b7d2669c383522ccc42f718/4b7d2669c383522ccc42f718.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/28ec6edaf4b1273885d4ff6d/28ec6edaf4b1273885d4ff6d.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/28e7960513c0b8f511aa8ea8/28e7960513c0b8f511aa8ea8.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a83624098c82691c1e5e3e1e/a83624098c82691c1e5e3e1e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a64c53c57105f0be428481aa/a64c53c57105f0be428481aa.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/62afa0c9ed142523bcc60892/62afa0c9ed142523bcc60892.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0c2f55e856df41d02cf3f7ce/0c2f55e856df41d02cf3f7ce.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP15",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f062c708c163e8e5f3c95a87/f062c708c163e8e5f3c95a87.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6607a7c7e387f6a95548f6be/6607a7c7e387f6a95548f6be.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/952b1b4beccd175068675908/952b1b4beccd175068675908.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bda906c1b3b33d8443e98335/bda906c1b3b33d8443e98335.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/dd92859c88fad5a1b50ce56c/dd92859c88fad5a1b50ce56c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/67b1ad13bf9a9e83d57ce07b/67b1ad13bf9a9e83d57ce07b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/669f0ee7f1091d3663c24cbe/669f0ee7f1091d3663c24cbe.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4dcc123c0591c86696cda9a3/4dcc123c0591c86696cda9a3.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5649cac31916228ce86b5db1/5649cac31916228ce86b5db1.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ac43eec3be81593d5daa9bce/ac43eec3be81593d5daa9bce.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a41e1416079f106d86d757ba/a41e1416079f106d86d757ba.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d0f4a2a95f5da64de215aad6/d0f4a2a95f5da64de215aad6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3b668f3dd6976f22338b3c8e/3b668f3dd6976f22338b3c8e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6f00f9b170769799006e769f/6f00f9b170769799006e769f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/A-LOVER-IN-THE-MORTAL-WORLD-2026-เพียงพบพาน-ดั่งภาพฝัน.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/34bc8d24e4631ed08f470fa0/34bc8d24e4631ed08f470fa0.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "(กำลังฉาย) Daredevil Born Again Season 2 (2026)",
       "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Daredevil-Born-Again-Season-2-300x450.jpg",
       "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "EPพากย์ไทย",
@@ -598,6 +975,7 @@
       "name": "(กำลังฉาย) No Doubt In Us (2026) สลับร่าง สลับใจ",
       "image": "https://www.123-hds.com/wp-content/uploads/2026/05/No-Doubt-In-Us-2026-สลับร่าง-สลับใจ-300x450.jpg",
       "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "EP10",
@@ -682,9 +1060,1434 @@
       ]
     },
     {
+      "name": "(กำลังฉาย) Love Beyond Dreams (2026) เพื่อเธออีกครั้ง",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Love-Beyond-Dreams-2026-เพื่อเธออีกครั้ง-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Love-Beyond-Dreams-2026-เพื่อเธออีกครั้ง-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4eb9579bc1eecfad5e75f98b/4eb9579bc1eecfad5e75f98b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Something Is Not Right (2026) แพ้เสียงในหัว(ใจ)",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3890d67af8a4be1f8fdc0398/3890d67af8a4be1f8fdc0398.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8c4755b0a9720abac537b94b/8c4755b0a9720abac537b94b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e55a655819101d52429dd260/e55a655819101d52429dd260.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9bca0942b42916e36dfb226a/9bca0942b42916e36dfb226a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9b9f649b702ad57d87313806/9b9f649b702ad57d87313806.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Something-Is-Not-Right-2026-แพ้เสียงในหัวใจ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9a937fedf34405aba8bb4da7/9a937fedf34405aba8bb4da7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Bloom Life (2026) เพลงรักแห่งคัชการ์",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/378cd412cb152a36319a493b/378cd412cb152a36319a493b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b53a09f32e04c1b721431ad2/b53a09f32e04c1b721431ad2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/173f7b926acaedec0d6836bf/173f7b926acaedec0d6836bf.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c0dd1d02cefc3078dec8b60c/c0dd1d02cefc3078dec8b60c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/31381271f457293b52dcf479/31381271f457293b52dcf479.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e69d03f54e3f3dbab15103c5/e69d03f54e3f3dbab15103c5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/059f1d7fcf295e5e4869c7b1/059f1d7fcf295e5e4869c7b1.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/68117b79fa856da1cbbced33/68117b79fa856da1cbbced33.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Echoes of Gang City (2026) ลิขิตรักสองภพ",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP27",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5faffdb7342d57896ef1cf0a/5faffdb7342d57896ef1cf0a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP26",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a4d0095e0f2032d4c3459f29/a4d0095e0f2032d4c3459f29.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP25",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4824179b05f659d06c22127f/4824179b05f659d06c22127f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP24",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/82be166511337eff96538bd6/82be166511337eff96538bd6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP23",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f976ce0d7422d08b99ea7490/f976ce0d7422d08b99ea7490.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/024422dc2b0b6c99afe86b29/024422dc2b0b6c99afe86b29.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/399fc0b0e6cf2ead4ac2d644/399fc0b0e6cf2ead4ac2d644.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/26670ffdcb2a6cb7ec92f59c/26670ffdcb2a6cb7ec92f59c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c642788069c0780db53d77dc/c642788069c0780db53d77dc.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4c382b8f9d7244631c248852/4c382b8f9d7244631c248852.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/46c23d4a913ebbb634a19e48/46c23d4a913ebbb634a19e48.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/69fd9de7a8f5eb824e81a964/69fd9de7a8f5eb824e81a964.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP15",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/99cf928f5e9a8d121dade823/99cf928f5e9a8d121dade823.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/726d193473b231e59545f250/726d193473b231e59545f250.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f1d534ff2acce1842227acb2/f1d534ff2acce1842227acb2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7735b8e1d401c454f2aaf510/7735b8e1d401c454f2aaf510.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/dcaf9d7437d65e35bf72b17c/dcaf9d7437d65e35bf72b17c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b79d1135ebd0b3d4b62c62ef/b79d1135ebd0b3d4b62c62ef.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ed7d262780327691a514d6be/ed7d262780327691a514d6be.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ae2c088c1de3ea19ed084348/ae2c088c1de3ea19ed084348.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7274b2e8b6f5c13ba54e6af7/7274b2e8b6f5c13ba54e6af7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/34a310ca20829dd05f988a9b/34a310ca20829dd05f988a9b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/56d1c8c90cb890198b3402e7/56d1c8c90cb890198b3402e7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b1a233d81187e8f987186706/b1a233d81187e8f987186706.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3e1fd2c3d172c4e6e20796c4/3e1fd2c3d172c4e6e20796c4.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/15846e372e263fd57e463c65/15846e372e263fd57e463c65.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Echoes-of-Gang-City-2026-ลิขิตรักสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/70a9ce389747ff9e3bca6cfd/70a9ce389747ff9e3bca6cfd.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Gold Land (2026) แผนล่าท้าคนโลภ",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e4c5908a3e81c18e39f45f4c/e4c5908a3e81c18e39f45f4c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/27a5efcc33125c4d5657688c/27a5efcc33125c4d5657688c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/27fef0a0a60e5c979aff1ba5/27fef0a0a60e5c979aff1ba5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Gold-Land-2026-แผนล่าท้าคนโลภ-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f1842989b250c5cd64e4cc08/f1842989b250c5cd64e4cc08.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Love Beyond the Grave (2026) ประทีปรักเหนือสองภพ",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP40",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4bb230358bd839c703aac26f/4bb230358bd839c703aac26f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP39",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f3037e034d12eddaa273c52a/f3037e034d12eddaa273c52a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP38",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8125c025d1bb72d4f06ef0b8/8125c025d1bb72d4f06ef0b8.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP37",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6d90c5d0a8899e8a9a7ac023/6d90c5d0a8899e8a9a7ac023.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP36",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2a37a2e9cf9a6c7cf9774bdd/2a37a2e9cf9a6c7cf9774bdd.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP35",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b48af72bf11ea3125b7679b8/b48af72bf11ea3125b7679b8.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP34",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/74e422c647286c22e41e200e/74e422c647286c22e41e200e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP33",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/cb7867a10da1134ea24a9b1e/cb7867a10da1134ea24a9b1e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP32",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fca17dbdd9d469f92873ff8d/fca17dbdd9d469f92873ff8d.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP31",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7c07f9b07e6431ffef47e8e6/7c07f9b07e6431ffef47e8e6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP30",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3da6d8020353b77fc498118a/3da6d8020353b77fc498118a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP29",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f502fc049cc8feea9c6e6dd5/f502fc049cc8feea9c6e6dd5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP28",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/176c87699f925b53dcc5d817/176c87699f925b53dcc5d817.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP27",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f114e468b81881fd0ba3d56e/f114e468b81881fd0ba3d56e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP26",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8f651c46953fd236cdc65600/8f651c46953fd236cdc65600.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP25",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7c65582a885c5318800a37ef/7c65582a885c5318800a37ef.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP24",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d1d1b6f0c9357050ace455b3/d1d1b6f0c9357050ace455b3.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP23",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9ce6047b173b3540fd0fb95f/9ce6047b173b3540fd0fb95f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/03601199e42462c830271fd0/03601199e42462c830271fd0.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b503fa1ffdb0428e72c99258/b503fa1ffdb0428e72c99258.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a4a313a51d1e052cb19636b4/a4a313a51d1e052cb19636b4.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e1b7cc96d6c08cbe177cb7a2/e1b7cc96d6c08cbe177cb7a2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f54866270df5d7cdf11d54c2/f54866270df5d7cdf11d54c2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/227d826bf93e80168c37a3c3/227d826bf93e80168c37a3c3.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5105e05c71e65768301942df/5105e05c71e65768301942df.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP15",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5b8c2901516524853685bdf6/5b8c2901516524853685bdf6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/36f13abbf8043ff550e83d28/36f13abbf8043ff550e83d28.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b22246a42d0802731608a4f5/b22246a42d0802731608a4f5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/67581a9c96cb59f2821bfcac/67581a9c96cb59f2821bfcac.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ad59be8f447b8c706439383d/ad59be8f447b8c706439383d.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/36f63739c06f5bf80bc4e0fc/36f63739c06f5bf80bc4e0fc.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/80133062bf9aa1b99d58c7bf/80133062bf9aa1b99d58c7bf.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/28642fb64134bb400b402fa2/28642fb64134bb400b402fa2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bfffc8dc213e3b9127034ce9/bfffc8dc213e3b9127034ce9.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/20ec57bc56ecd12302839ae8/20ec57bc56ecd12302839ae8.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/763938c32e0e20f6c5f6bf45/763938c32e0e20f6c5f6bf45.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0bbc940eb2d5fe4753cd1531/0bbc940eb2d5fe4753cd1531.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8f65ceaa500524ddbfea01a0/8f65ceaa500524ddbfea01a0.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/088f2eccae17dafdf63fb390/088f2eccae17dafdf63fb390.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fe49c32556da95f2d44daf3f/fe49c32556da95f2d44daf3f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Sammy’s Children’s Day (2026) รักร้ายของนายมาเฟีย",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a748cdc951dac7d74e58efef/a748cdc951dac7d74e58efef.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9a7a656a392e9bd95f84af43/9a7a656a392e9bd95f84af43.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9f467a5a7cff967049de9e58/9f467a5a7cff967049de9e58.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c9cc7e636c9ed130f981cc75/c9cc7e636c9ed130f981cc75.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/cb586c46314c732624e5a447/cb586c46314c732624e5a447.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ed44815a90b06184f2a9c894/ed44815a90b06184f2a9c894.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7b9c7817bf610e7fe15d6d96/7b9c7817bf610e7fe15d6d96.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0cfc4e99d0ae49ba2313bdd6/0cfc4e99d0ae49ba2313bdd6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Sammys-Childrens-Day-2026-รักร้ายของนายมาเฟีย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4cff01acb24c7d707907dcb3/4cff01acb24c7d707907dcb3.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Never Forget Your Enemy (2026) ยังไงก็ใช่นาย",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7c5d8f36d03e7fc218c67b54/7c5d8f36d03e7fc218c67b54.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/39e60de8ad7d958fec37c2f7/39e60de8ad7d958fec37c2f7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ff9c3eaf3814c3fc17143d4c/ff9c3eaf3814c3fc17143d4c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9b3e2ee79de6e0b99e9105f0/9b3e2ee79de6e0b99e9105f0.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5222220430574072016e4eaa/5222220430574072016e4eaa.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7f374f2e6520a7a8395e1e37/7f374f2e6520a7a8395e1e37.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a6f91d18b620689df6cb10b7/a6f91d18b620689df6cb10b7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Never-Forget-Your-Enemy-2026-ยังไงก็ใช่นาย-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6b9ac930ffe7d595a62693a7/6b9ac930ffe7d595a62693a7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Lady Liberty (2026) วังวนรักกลางมหานคร",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP23",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/73e050d25ea1dceffce9ec0c/73e050d25ea1dceffce9ec0c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0b1d9904c88c6b54a9d95f17/0b1d9904c88c6b54a9d95f17.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d0d1ff4647653397da750f61/d0d1ff4647653397da750f61.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5513c0a71b7df23cd4a1cb30/5513c0a71b7df23cd4a1cb30.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/82e4323913d5b02178805ff5/82e4323913d5b02178805ff5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0d8f2c3e6cd75149d93193ff/0d8f2c3e6cd75149d93193ff.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1f8457620d144f2ccfb20092/1f8457620d144f2ccfb20092.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c62eae84b14880ff9d1b4f11/c62eae84b14880ff9d1b4f11.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP15",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c6917e2057cac2c2e71b0cb8/c6917e2057cac2c2e71b0cb8.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3f49e2378bdb085422d549b7/3f49e2378bdb085422d549b7.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bb7eb239523b9430be7d23b2/bb7eb239523b9430be7d23b2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2fbeaf27f638da2de4e2fc41/2fbeaf27f638da2de4e2fc41.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/32f1cc095cad98eeaa605dff/32f1cc095cad98eeaa605dff.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0b3c6b62da20229c44bb5866/0b3c6b62da20229c44bb5866.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8f7d8ae56c055573ce717cb1/8f7d8ae56c055573ce717cb1.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/dab09b5a5736a5cb0eb55f70/dab09b5a5736a5cb0eb55f70.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ad10f5ab7a2baab7c40d042b/ad10f5ab7a2baab7c40d042b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/90e8ca339fec47c9bf241df0/90e8ca339fec47c9bf241df0.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/201a89dbc708fdc70622996f/201a89dbc708fdc70622996f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/341ae30b9ccb3199ab2f4ae6/341ae30b9ccb3199ab2f4ae6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1eddff551bdc0c9ec50cae95/1eddff551bdc0c9ec50cae95.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/fd4c6339916f77deca1e8620/fd4c6339916f77deca1e8620.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Lady-Liberty-2026-วังวนรักกลางมหานคร-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/730f18322a20e0941abcacea/730f18322a20e0941abcacea.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Fate Chooses You (2026) คู่สรรสวรรค์สร้าง",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP29",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/072d7ba8e8131caf64fd2562/072d7ba8e8131caf64fd2562.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP28",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2c6183bd6985220ee8f77942/2c6183bd6985220ee8f77942.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP27",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c86780fc0959330c11e072d9/c86780fc0959330c11e072d9.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP26",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1ac63ce93d49789f39653850/1ac63ce93d49789f39653850.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP25",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/960e23e77679fd9c503b1245/960e23e77679fd9c503b1245.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP24",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b8b580f7fc4fb5c8e221907a/b8b580f7fc4fb5c8e221907a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP23",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/cdaa408be5f55aa27b732401/cdaa408be5f55aa27b732401.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9bc7aa33abed21c406ec1a45/9bc7aa33abed21c406ec1a45.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4c6c233faf7775e0250613db/4c6c233faf7775e0250613db.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/925d50cb554fb4bb1d9938dc/925d50cb554fb4bb1d9938dc.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1ad2ceb6c9235950d34fe8bc/1ad2ceb6c9235950d34fe8bc.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a2ee4b1245b16dcc340ed00f/a2ee4b1245b16dcc340ed00f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8f789c259c92b20fac1f7647/8f789c259c92b20fac1f7647.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/a25bd411c973f77e1a100c5f/a25bd411c973f77e1a100c5f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP15",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/dbdd28cbb36e63d45dbdad0c/dbdd28cbb36e63d45dbdad0c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/82daaf9679b7767a8f56965a/82daaf9679b7767a8f56965a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/efac9cc99896e9b8fee17704/efac9cc99896e9b8fee17704.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1ac6b13811beefe6fba30c68/1ac6b13811beefe6fba30c68.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7be9480042d813a7164963e0/7be9480042d813a7164963e0.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3df3f4e086e03c5e1953582e/3df3f4e086e03c5e1953582e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7d76dcc10fa44e7ecec0b486/7d76dcc10fa44e7ecec0b486.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f945ba5623a37fcfd2212410/f945ba5623a37fcfd2212410.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/cdf7bd6cdcfc9cf963f6ba1e/cdf7bd6cdcfc9cf963f6ba1e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4421b71f34b7e2452ad037e4/4421b71f34b7e2452ad037e4.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5c236a9f0dc7f325cf36d4e5/5c236a9f0dc7f325cf36d4e5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d4622754927d02fe2f586935/d4622754927d02fe2f586935.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b235f5620c2d3989a5a313fe/b235f5620c2d3989a5a313fe.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/00514eeb603d1ce24541664b/00514eeb603d1ce24541664b.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Fate-Chooses-You-2026-คู่สรรสวรรค์สร้าง.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9822c0146522d464b6e3c97a/9822c0146522d464b6e3c97a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Walking On Thin Ice (2026) ชีวิตพลิกเกมนรก",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2cdd965aec80eb2c08ce5e0a/2cdd965aec80eb2c08ce5e0a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e45b3802199f013dceb1dc8a/e45b3802199f013dceb1dc8a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c2762e98e5de18f1773ad5dd/c2762e98e5de18f1773ad5dd.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5a14133bad1a96284a3e15d6/5a14133bad1a96284a3e15d6.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e4e84cf11e308a342994f190/e4e84cf11e308a342994f190.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/403eec7d8471a5f0c47786eb/403eec7d8471a5f0c47786eb.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/62458d8695de882baa424e9c/62458d8695de882baa424e9c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6030b2390cbe313c8439d222/6030b2390cbe313c8439d222.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ba1ad1dbb98b44c4307eac59/ba1ad1dbb98b44c4307eac59.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c141069c6cfa7c50aa6b2c67/c141069c6cfa7c50aa6b2c67.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8960aab8f9d6ebda4f86021e/8960aab8f9d6ebda4f86021e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/35d02d7083a8d26687f7f4d5/35d02d7083a8d26687f7f4d5.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "(กำลังฉาย) Born with Luck (2026) อาชญากรรม IQ ต่ำ",
       "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Born-with-Luck-2026-อาชญากรรม-IQ-ต่ำ.jpg",
       "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "EP13",
@@ -793,332 +2596,289 @@
       ]
     },
     {
-      "name": "(กำลังฉาย) Love Beyond Dreams (2026) เพื่อเธออีกครั้ง",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Love-Beyond-Dreams-2026-เพื่อเธออีกครั้ง-300x450.jpg",
+      "name": "(กำลังฉาย) The Double Game (2026) เกมสองหน้า",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
       "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Love-Beyond-Dreams-2026-เพื่อเธออีกครั้ง-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/4eb9579bc1eecfad5e75f98b/4eb9579bc1eecfad5e75f98b.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Sold Out on You (2026) รักเธอหมดใจ",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/917f94a94e3f07b4d6f09b52/917f94a94e3f07b4d6f09b52.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9a98ea87f1cfd0ea259078b5/9a98ea87f1cfd0ea259078b5.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/763cef31388a1a8a50a281d2/763cef31388a1a8a50a281d2.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e2028a0746f30fb40ed911d2/e2028a0746f30fb40ed911d2.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e7ac64cfbe513eca378606a7/e7ac64cfbe513eca378606a7.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Sold-Out-on-You-2026-รักเธอหมดใจ-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/d447eaf43cad3a7e73729a54/d447eaf43cad3a7e73729a54.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | ซับไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Climax (2026) สุดจุดเดือด",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP10",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/4ee1d07f3b70ea25eebb661f/4ee1d07f3b70ea25eebb661f.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP09",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6ba5145f299eab28058fbaa8/6ba5145f299eab28058fbaa8.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP08",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/9403a2e39b67fd2e071c1606/9403a2e39b67fd2e071c1606.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP07",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/c1c91ea2a2cba28ef1dd9598/c1c91ea2a2cba28ef1dd9598.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/65a0b64edf03141df95211f4/65a0b64edf03141df95211f4.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/fed4029db8161f3da62c37b6/fed4029db8161f3da62c37b6.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/86f1bb1be52f4a7ab50e5983/86f1bb1be52f4a7ab50e5983.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7c14c14fee5c9d8502070f9b/7c14c14fee5c9d8502070f9b.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6d6175375fcda328ddfa6ad6/6d6175375fcda328ddfa6ad6.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/03/Climax-2026-สุดจุดเดือด-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/bc1dfb717b7643e48f5100a7/bc1dfb717b7643e48f5100a7.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Bloom Life (2026) เพลงรักแห่งคัชการ์",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-      "info": "กำลังฉาย",
-      "stations": [
-        {
-          "name": "EP08",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/378cd412cb152a36319a493b/378cd412cb152a36319a493b.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP07",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/b53a09f32e04c1b721431ad2/b53a09f32e04c1b721431ad2.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/173f7b926acaedec0d6836bf/173f7b926acaedec0d6836bf.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/c0dd1d02cefc3078dec8b60c/c0dd1d02cefc3078dec8b60c.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/31381271f457293b52dcf479/31381271f457293b52dcf479.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e69d03f54e3f3dbab15103c5/e69d03f54e3f3dbab15103c5.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/059f1d7fcf295e5e4869c7b1/059f1d7fcf295e5e4869c7b1.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/Bloom-Life-2026-เพลงรักแห่งคัชการ์.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/68117b79fa856da1cbbced33/68117b79fa856da1cbbced33.m3u8",
-          "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "(กำลังฉาย) Walking On Thin Ice (2026) ชีวิตพลิกเกมนรก",
-      "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "EP12",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/2cdd965aec80eb2c08ce5e0a/2cdd965aec80eb2c08ce5e0a.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/204919b1b7d5c0119176cb2d/204919b1b7d5c0119176cb2d.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP11",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e45b3802199f013dceb1dc8a/e45b3802199f013dceb1dc8a.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f3afa610a33ae2bc5a16a198/f3afa610a33ae2bc5a16a198.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP10",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/c2762e98e5de18f1773ad5dd/c2762e98e5de18f1773ad5dd.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8ee5d96e2c648fcfd7992e7d/8ee5d96e2c648fcfd7992e7d.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP09",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/5a14133bad1a96284a3e15d6/5a14133bad1a96284a3e15d6.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e6fb413b2404a1fc00b4833f/e6fb413b2404a1fc00b4833f.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP08",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e4e84cf11e308a342994f190/e4e84cf11e308a342994f190.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/95a5b857b2c23fd0175eccbd/95a5b857b2c23fd0175eccbd.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP07",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/403eec7d8471a5f0c47786eb/403eec7d8471a5f0c47786eb.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5944e398a3d30d692e657aa4/5944e398a3d30d692e657aa4.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP06",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/62458d8695de882baa424e9c/62458d8695de882baa424e9c.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/4db0cefb9837b938522f03f9/4db0cefb9837b938522f03f9.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP05",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6030b2390cbe313c8439d222/6030b2390cbe313c8439d222.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/446a1707e92038ea9394a256/446a1707e92038ea9394a256.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP04",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/ba1ad1dbb98b44c4307eac59/ba1ad1dbb98b44c4307eac59.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/742c80e03ce2aff63137be38/742c80e03ce2aff63137be38.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP03",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/c141069c6cfa7c50aa6b2c67/c141069c6cfa7c50aa6b2c67.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3316f26c9ecbe56717a543a9/3316f26c9ecbe56717a543a9.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP02",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/8960aab8f9d6ebda4f86021e/8960aab8f9d6ebda4f86021e.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b7de814ac280b50462e15844/b7de814ac280b50462e15844.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         },
         {
           "name": "EP01",
-          "image": "https://www.123-hds.com/wp-content/uploads/2026/01/Walking-On-Thin-Ice-2026-ชีวิตพลิกเกมนรก-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/35d02d7083a8d26687f7f4d5/35d02d7083a8d26687f7f4d5.m3u8",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/05/The-Double-Game-2026-เกมสองหน้า-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1828729361cd3909dc19ca81/1828729361cd3909dc19ca81.m3u8",
           "referer": "",
-          "info": "HD | พากย์ไทย | พากย์ไทย",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "(กำลังฉาย) Royal Upstart 2 (2026) ยอดเขยกำมะลอ",
+      "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+      "info": "กำลังฉาย",
+      "author": ":ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "EP22",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/244032ed063389c0bde1d5a2/244032ed063389c0bde1d5a2.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP21",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/c23323eee9dbbb41cca4a68a/c23323eee9dbbb41cca4a68a.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP20",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/18bb7e207c00a76fc0ece28e/18bb7e207c00a76fc0ece28e.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP19",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3321229e1dd1cfd3b02a3c86/3321229e1dd1cfd3b02a3c86.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP18",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/166edef8d6201b85bb879f71/166edef8d6201b85bb879f71.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP17",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f5824b88802162be4973082f/f5824b88802162be4973082f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP16",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/32904f4963d5d78287b24dc4/32904f4963d5d78287b24dc4.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP15",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/921c875a687f09b198b4efe1/921c875a687f09b198b4efe1.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP14",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e219910eabe9aaf205d7e54d/e219910eabe9aaf205d7e54d.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP13",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bb69a6238e01e8c7bd93b424/bb69a6238e01e8c7bd93b424.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP12",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/824e6d3043d11f398f472153/824e6d3043d11f398f472153.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP11",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/3c3a68df06564374f5b65fe0/3c3a68df06564374f5b65fe0.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP10",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/dd5036a21838d8e19f1bb923/dd5036a21838d8e19f1bb923.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP09",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/afd62328f78ed0815ffded00/afd62328f78ed0815ffded00.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP08",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2d87249f7bdbde23b817d7cf/2d87249f7bdbde23b817d7cf.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP07",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5e376138620b37f41e367373/5e376138620b37f41e367373.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP06",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/27af9e740c9193dd55339b3f/27af9e740c9193dd55339b3f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP05",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f32a8f87f94c41caef30a260/f32a8f87f94c41caef30a260.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP04",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0167fd0708f3044f16a3164f/0167fd0708f3044f16a3164f.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP03",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f8045ccf5dd77206eb70261c/f8045ccf5dd77206eb70261c.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP02",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d50da5d49c5e18f32114d726/d50da5d49c5e18f32114d726.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP01",
+          "image": "https://www.123-hds.com/wp-content/uploads/2026/04/Royal-Upstart-2-2026-ยอดเขยกำมะลอ-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1f14805de800b8e387fae4e9/1f14805de800b8e387fae4e9.m3u8",
+          "referer": "",
+          "info": "HD | พากย์ไทย | ซับไทย",
           "playInNatPlayer": "true"
         }
       ]
