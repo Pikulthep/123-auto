@@ -235,17 +235,17 @@ if __name__ == "__main__":
             })
         print("\n")
                 
-    # ================== สร้างไฟล์ JSON รวมฮิต ==================
-    print(f"💾 รวบรวมสำเร็จทั้งหมด {len(all_groups_data)} หมวดหมู่, กำลังสร้างไฟล์ {OUTPUT_FILE}")
+print(f"💾 รวบรวมสำเร็จทั้งหมด {len(all_groups_data)} หมวดหมู่, กำลังสร้างไฟล์ {OUTPUT_FILE}")
     os.makedirs(SAVE_DIR, exist_ok=True)
     
     current_date = datetime.now().strftime("%d/%m/%Y")
+    
     final_data = {
-        "name": f"รวมฮิต 123-HDS @ {current_date}",
-        "author": "Auto Update (Multi-Cat)",
+        "name": "หนัง 123-HDS", # 🌟 ตัด @ {current_date} ออกตามที่ต้องการ
+        "author": f"Auto Update ({current_date})", # เก็บวันที่ไว้ในส่วนคนเขียน
         "info": "รวมหนังและซีรีส์อัปเดตอัตโนมัติ",
         "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
-        "groups": all_groups_data # ยัดโฟลเดอร์ทั้งหมดลงในกล่องใหญ่
+        "groups": all_groups_data 
     }
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
