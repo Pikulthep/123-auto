@@ -16,12 +16,12 @@ CATEGORIES = [
     {
         "name": "หนังใหม่ 2026", 
         "url": "https://www.123-hds.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2026", 
-        "max_page": 3 # ดึง 3 หน้าแรก
+        "max_page": 1 # ดึง 3 หน้าแรก
     },
     {
         "name": "หนัง Netflix", 
         "url": "https://www.123-hds.com/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-netflix", 
-        "max_page": 2 # ดึง 2 หน้าแรก
+        "max_page": 1 # ดึง 2 หน้าแรก
     },
     {
         "name": "หนังไทย", 
@@ -32,7 +32,7 @@ CATEGORIES = [
 
 SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "movies.txt")
-MAX_WORKERS = 3 # จำนวนหน้าต่างที่จะเปิดพร้อมกัน (แนะนำที่ 2-3 ป้องกัน RAM เต็ม)
+MAX_WORKERS = 3 # จำนวนหน้าต่างที่จะเปิดพร้อมกัน
 
 # ================== ฟังก์ชันช่วยเหลือ ==================
 def extract_m3u8(logs):
@@ -212,9 +212,6 @@ if __name__ == "__main__":
         # 1. กวาดลิงก์ของหมวดหมู่นั้นๆ
         links = get_movie_links(cat_url, cat_max_page)
         
-        # 🌟 เทสระบบ: ถ้าอยากเทสไวๆ ให้ดึงแค่ 2 เรื่องต่อหมวด (ถ้าจะรันจริงให้ลบบรรทัดล่างนี้ทิ้ง)
-        # links = links[:2] 
-        
         print(f"🎯 พบลิงก์ในหมวด '{cat_name}' ทั้งหมด: {len(links)} เรื่อง")
         print(f"⏳ เริ่มเจาะดึงข้อมูลวิดีโอ (รันขนาน {MAX_WORKERS} หน้าต่าง)...\n")
         
@@ -235,14 +232,15 @@ if __name__ == "__main__":
             })
         print("\n")
                 
-print(f"💾 รวบรวมสำเร็จทั้งหมด {len(all_groups_data)} หมวดหมู่, กำลังสร้างไฟล์ {OUTPUT_FILE}")
+    # 🌟 แก้ไขการเยื้องบรรทัด (Indentation) ตรงนี้ให้ถูกต้องแล้ว
+    print(f"💾 รวบรวมสำเร็จทั้งหมด {len(all_groups_data)} หมวดหมู่, กำลังสร้างไฟล์ {OUTPUT_FILE}")
     os.makedirs(SAVE_DIR, exist_ok=True)
     
     current_date = datetime.now().strftime("%d/%m/%Y")
     
     final_data = {
-        "name": "หนัง 123-HDS", # 🌟 ตัด @ {current_date} ออกตามที่ต้องการ
-        "author": f"Auto Update ({current_date})", # เก็บวันที่ไว้ในส่วนคนเขียน
+        "name": "หนัง 123-HDS", 
+        "author": f"Auto Update ({current_date})", 
         "info": "รวมหนังและซีรีส์อัปเดตอัตโนมัติ",
         "image": "https://www.123-hds.com/wp-content/uploads/2023/10/logo.png",
         "groups": all_groups_data 
