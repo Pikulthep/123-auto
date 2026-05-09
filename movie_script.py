@@ -30,7 +30,6 @@ CATEGORIES = [
     
     # --- หมวดหมู่ตามสัญชาติ ---
     {"name": "หนังไทย", "url": "https://www.123-hds.com/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%97%e0%b8%a2", "max_page": 23}
-
 ]
 
 SAVE_DIR = "output"
@@ -78,8 +77,10 @@ def get_movie_links(category_url, max_page):
                 time.sleep(3) 
                 soup = BeautifulSoup(driver.page_source, "html.parser")
                 halim_box = soup.find("div", class_="halim_box")
+                
+                # 🌟 แก้ไขเรื่องการเยื้อง (Indentation) ให้ถูกต้องตรงนี้
                 if halim_box:
-for article in halim_box.find_all("article"):
+                    for article in halim_box.find_all("article"):
                         a_tag = article.find("a")
                         if a_tag and "href" in a_tag.attrs:
                             href = a_tag["href"]
@@ -241,7 +242,6 @@ if __name__ == "__main__":
             })
         print("\n")
                 
-    # 🌟 แก้ไขการเยื้องบรรทัด (Indentation) ตรงนี้ให้ถูกต้องแล้ว
     print(f"💾 รวบรวมสำเร็จทั้งหมด {len(all_groups_data)} หมวดหมู่, กำลังสร้างไฟล์ {OUTPUT_FILE}")
     os.makedirs(SAVE_DIR, exist_ok=True)
     
