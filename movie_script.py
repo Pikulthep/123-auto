@@ -79,10 +79,16 @@ def get_movie_links(category_url, max_page):
                 soup = BeautifulSoup(driver.page_source, "html.parser")
                 halim_box = soup.find("div", class_="halim_box")
                 if halim_box:
-                    for article in halim_box.find_all("article"):
+for article in halim_box.find_all("article"):
                         a_tag = article.find("a")
                         if a_tag and "href" in a_tag.attrs:
-                            all_links.append(a_tag["href"])
+                            href = a_tag["href"]
+                            # กรองเอาเฉพาะลิงก์ที่ถูกต้อง (ขึ้นต้นด้วย http)
+                            if href.startswith("http"):
+                                all_links.append(href)
+                            # เผื่อเจอลิงก์แบบย่อ ให้เติมชื่อเว็บเข้าไป
+                            elif href.startswith("/"):
+                                all_links.append("https://www.123-hds.com" + href)
             except Exception as e:
                 print(f"     [Error] อ่านหน้า {page} ไม่สำเร็จ: {e}")
     finally:
