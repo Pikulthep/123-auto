@@ -197,7 +197,9 @@ def process_movie(movie_url):
             print(f"    ❌ ไม่พบลิงก์: {title}")
             
     except Exception as e:
-        print(f"    ⚠️ Error เกิดข้อผิดพลาด: {e}")
+        # ตัดเอาข้อความแจ้งเตือนมาแค่บรรทัดแรกบรรทัดเดียว จะได้ไม่รกหน้า Log
+        error_msg = str(e).split('\n')[0] 
+        print(f"    ⚠️ ข้ามเรื่องนี้ (ตัวเล่นวิดีโอต้นทางมีปัญหา): {error_msg}")
     finally:
         driver.quit()
         
