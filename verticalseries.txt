@@ -4,10 +4,6 @@
     "author": "1/6/2026",
     "stations": [
     
-    
-    [},
-    
-    
      {
             "name": "อย่าส่งเสียงในคืนนี้",
             "image": "https://xn--72c9ab1ec1bc6q.online//uploads/posters/edcf457932cb62ca2c65d78baf0712f2.webp",
